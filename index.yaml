@@ -3,7 +3,7 @@ entries:
   open5gs-udr:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2023-11-10T09:30:38.282449786Z"
+    created: "2024-03-06T14:23:01.962378932Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -11,7 +11,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: 'Helm chart to deploy Open5gs UDR service on Kubernetes. '
-    digest: cb7e38e4f25ab28b5a64865164644b63ace8f52acfcd6beba62b29af5a5fee93
+    digest: f6a5e947255b1f378f862eb8217e08cc51ab9360523b53284f9178babf7dd1a3
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
     - ngc
@@ -22,4 +22,4 @@ entries:
     urls:
     - open5gs-udr-2.1.0.tgz
     version: 2.1.0
-generated: "2023-11-10T09:30:38.280148548Z"
+generated: "2024-03-06T14:23:01.960008096Z"
